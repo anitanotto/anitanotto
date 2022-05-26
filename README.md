@@ -2,8 +2,8 @@
 <h1 align="center">Howdy ✌️, I'm Anita</h1>
 <h3 align="center">A full stack web dev from Charlottesville</h3>
 <pre align="center">
-
-
+&nbsp;
+&nbsp;
 🔭 I’m currently working on **a POS system for small businesses.**
 
 👯 I’m looking to collaborate on **FOSS projects.**
