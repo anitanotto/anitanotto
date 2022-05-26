@@ -1,14 +1,14 @@
 <img src="cover.png">
 <h1 align="center">Howdy ✌️, I'm Anita</h1>
 <h3 align="center">A full stack web dev from Charlottesville</h3>
-<pre>
+<pre align="center">
 
 
-- 🔭 I’m currently working on **a POS system for small businesses.**
+🔭 I’m currently working on **a POS system for small businesses.**
 
-- 👯 I’m looking to collaborate on **FOSS projects.**
+👯 I’m looking to collaborate on **FOSS projects.**
 
-- 👨‍💻 All of my freelance projects are available at [https://anitanotto.com](https://anitanotto.com)
+👨‍💻 All of my freelance projects are available at [https://anitanotto.com](https://anitanotto.com)
 
 
 </pre>
