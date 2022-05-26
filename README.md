@@ -4,10 +4,11 @@
 <pre align="center">
 &nbsp;
 &nbsp;
+
 🔭 I’m currently working on **a POS system for small businesses.**
-
+&nbsp;
 👯 I’m looking to collaborate on **FOSS projects.**
-
+&nbsp;
 👨‍💻 All of my freelance projects are available at [https://anitanotto.com](https://anitanotto.com)
 
 
