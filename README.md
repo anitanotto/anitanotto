@@ -1,6 +1,7 @@
 <img src="cover.png">
 <h1 align="center">Howdy ✌️, I'm Anita</h1>
 <h3 align="center">A full stack web dev from Charlottesville</h3>
+<pre>
 
 
 - 🔭 I’m currently working on **a POS system for small businesses.**
@@ -10,6 +11,7 @@
 - 👨‍💻 All of my freelance projects are available at [https://anitanotto.com](https://anitanotto.com)
 
 
+</pre>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/anitanotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anitanotto" height="30" width="40" /></a>
