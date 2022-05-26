@@ -1,3 +1,4 @@
+<img src="cover.png">
 <h1 align="center">Howdy ✌️, I'm Anita</h1>
 <h3 align="center">A full stack web dev from Charlottesville</h3>
 
