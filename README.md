@@ -1,7 +1,7 @@
 <img src="cover.png">
 <h1 align="center">Howdy ✌️, I'm Anita</h1>
 <h3 align="center">A full stack web dev from Charlottesville, VA</h3>
-<pre align="center">
+<pre align="center" width="820">
 &nbsp;
 &nbsp;
 
