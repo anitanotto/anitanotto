@@ -166,7 +166,7 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open The Gallery on 15 in new window" class="AnimatedImagePlayer-button" href="https://anitanotto.github.io/the-gallery-on-15/" target="_blank">
+          <a data-target="animated-image.openButton" aria-label="Open The Gallery on 15 in new window" class="AnimatedImagePlayer-button" href="https://github.com/anitanotto/the-gallery-on-15" target="_blank">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
@@ -175,10 +175,10 @@
       </span></animated-image>
         <br>
         <p align="center" dir="auto">
-  <a href="https://anitanotto.github.io/the-gallery-on-15">
+  <a href="https://github.com/anitanotto/the-gallery-on-15">
     <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <a href="https://anitanotto.github.io/the-gallery-on-15" rel="nofollow">
+  <a href="https://github.com/anitanotto/the-gallery-on-15" rel="nofollow">
     <!--<img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
   </a>-->
       </p>
