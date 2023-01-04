@@ -21,11 +21,11 @@
     <td width="50%" valign="top">
       <h3 align="center" dir="auto"><a id="user-content-magicalmerchant" class="anchor" aria-hidden="true" href="#magicalmerchant"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Magical Merchant</h3>
         <br>
-        <animated-image data-catalyst="" style="width: 100%;"><a href="http://magical-merchant.herokuapp.com" rel="nofollow" data-target="animated-image.originalLink">
+        <animated-image data-catalyst="" style="width: 100%;"><a href="https://magical-merchant.onrender.com/" rel="nofollow" data-target="animated-image.originalLink">
             <img src="gif1.gif" alt="Point of Sale App" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="http://magical-merchant.herokuapp.com/" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://magical-merchant.onrender.com/" target="_blank">
           <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="Travel App" class="AnimatedImagePlayer-animatedImage" src="gif1.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span>
@@ -41,7 +41,7 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open Point of Sale App in new window" class="AnimatedImagePlayer-button" href="http://magical-merchant.herokuapp.com/" target="_blank">
+          <a data-target="animated-image.openButton" aria-label="Open Point of Sale App in new window" class="AnimatedImagePlayer-button" href="https://magical-merchant.onrender.com/" target="_blank">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
@@ -53,7 +53,7 @@
   <a href="https://github.com/anitanotto/magical-merchant">
     <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
   </a>  
-  <a href="http://magical-merchant.herokuapp.com" rel="nofollow">
+  <a href="https://magical-merchant.onrender.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
   </a>
       </p>
@@ -62,11 +62,11 @@
     <td width="50%" valign="top">
       <h3 align="center" dir="auto"><a id="user-content-guilty-gear-api" class="anchor" aria-hidden="true" href="#guilty-gear-api"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Guilty Gear Strive Frame Data API</h3>
         <br>
-      <animated-image data-catalyst="" style="width: 100%;"><a href="https://ggst-framedata.herokuapp.com/" rel="nofollow" data-target="animated-image.originalLink">
+      <animated-image data-catalyst="" style="width: 100%;"><a href="https://ggst-framedata.onrender.com/" rel="nofollow" data-target="animated-image.originalLink">
             <img src="gif2.gif" alt="Guilty Gear API" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://ggst-framedata.herokuapp.com/" target="_blank">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://ggst-framedata.onrender.com/" target="_blank">
           <span data-target="animated-image.imageContainer">
             <img data-target="animated-image.replacedImage" alt="Guilty Gear API" class="AnimatedImagePlayer-animatedImage" src="gif2.gif" style="display: block; opacity: 1;">
           <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span>
@@ -82,7 +82,7 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open Guilty Gear API in new window" class="AnimatedImagePlayer-button" href="https://ggst-framedata.herokuapp.com/" target="_blank">
+          <a data-target="animated-image.openButton" aria-label="Open Guilty Gear API in new window" class="AnimatedImagePlayer-button" href="https://ggst-framedata.onrender.com/" target="_blank">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
@@ -94,7 +94,7 @@
   <a href="https://github.com/anitanotto/ggst-framedata">
     <img src="https://camo.githubusercontent.com/95e3aac44e8f136da088962c9b8ba29ce570117c20df4d39dce11bbb8c3ff106/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5245504f26636f6c6f723d323335353566267374796c653d706c6173746963266c6f676f3d676974687562266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=REPO&amp;color=23555f&amp;style=plastic&amp;logo=github&amp;logo-color=white" style="max-width: 100%;">
   </a>
-  <a href="https://ggst-framedata.herokuapp.com/" rel="nofollow">
+  <a href="https://ggst-framedata.onrender.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/e6efe3d3e99693e578797485a4973c0efb93f435001dad1f75001c0d3a130aea/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d7c266d6573736167653d5745425349544526636f6c6f723d636466393938267374796c653d706c6173746963266c6f676f3d776f72647072657373266c6f676f2d636f6c6f723d7768697465" data-canonical-src="https://img.shields.io/static/v1?label=|&amp;message=WEBSITE&amp;color=cdf998&amp;style=plastic&amp;logo=wordpress&amp;logo-color=white" style="max-width: 100%;">
   </a>
       </p>
