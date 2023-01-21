@@ -109,11 +109,6 @@
           <img src="screenshot.png" alt="Portfolio" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
         </a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://anitanotto.com/" target="_blank">
-          <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="Portfolio" class="AnimatedImagePlayer-animatedImage" src="screenshot.png" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="396" height="192"></canvas></span>
-        </a>
         <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play Portfolio"></button>
         <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
           <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play Portfolio">
