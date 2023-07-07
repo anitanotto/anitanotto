@@ -52,18 +52,22 @@
 
 <p align="center"><img align="center" src="https://media.tenor.com/OiyTQG6pD1IAAAAM/rage-anime.gif"></p>
 <p align="center">Every day, I complete at least one problem on Codewars/LeetCode & push more code to GitHub to help keep my skills sharp.</p>
+<p align="center">
 <a href="https://www.codewars.com/users/hammock-sleeper">
-  <img width="503px" alt="Anita's Codewars Stats" src="https://clever-overshirt-ant.cyclic.app/api/?username=hammock-sleeper&card&customcolor=bg:2e3440_fg:0891b2_text:ffffff_logo:ffffff_stroke:ffffff" />
+  <img style="width: 408px;" alt="Anita's Codewars Stats" src="https://clever-overshirt-ant.cyclic.app/api/?username=hammock-sleeper&card&customcolor=bg:2e3440_fg:0891b2_text:ffffff_logo:ffffff_stroke:ffffff" />
 </a>
 <a href="https://leetcode.com/anitanotto/">
-  <img alt="Anita's LeetCode Stats" src="https://leetcard.jacoblin.cool/anitanotto?theme=nord&width=503&height=226&border=0&radius=0" />
+  <img style="width: 408px;" alt="Anita's LeetCode Stats" src="https://leetcard.jacoblin.cool/anitanotto?theme=nord&width=503&height=226&border=0&radius=0" />
 </a>
+</p>
+<p align="center">
 <a href="#githubStats">
-  <img id="githubStats" alt="Anita's GitHub Stats" src="https://github-readme-stats-anitanotto.vercel.app/api?username=anitanotto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=2e3440&hide_border=true&show_icons=true&card_width=503.5&border_radius=0" />
+  <img style="width: 408px;" id="githubStats" alt="Anita's GitHub Stats" src="https://github-readme-stats-anitanotto.vercel.app/api?username=anitanotto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=2e3440&hide_border=true&show_icons=true&card_width=503.5&border_radius=0" />
 </a>
 <a href="#githubStreak">
-  <img id="githubStreak" alt="Anita' GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anitanotto&stroke=ffffff&background=2e3440&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=503.5&hide_border=true&border_radius=0" />
+  <img style="width: 408px;" id="githubStreak" alt="Anita' GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=anitanotto&stroke=ffffff&background=2e3440&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=503.5&hide_border=true&border_radius=0" />
 </a>
+</p>
 
 <h3 align="center">Connect With Me on <a href="https://www.linkedin.com/in/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a> & <a href="https://www.twitter.com/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a></h3>
 
