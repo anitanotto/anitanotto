@@ -18,7 +18,7 @@
     </td>
     <td width="50%" style="text-align: center;">
       <h3 align="center">Guilty Gear Strive Frame Data API</h3>
-      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="assets/portfolio.webp" alt="Guilty Gear API Screenshot"></a>
+      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="assets/gg.webp" alt="Guilty Gear API Screenshot"></a>
       <p>A Restful API serving Guilty Gear Strive frame data, plus a script to scrape updated data and an app that pulls data from the API and analyzes it.</p>
       <p>Tech used: EJS, Sass, Node.js, & Express.js</p>
       <p align="center">
