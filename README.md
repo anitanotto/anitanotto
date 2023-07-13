@@ -8,7 +8,7 @@
   <tr width="100%">
     <td width="50%" style="text-align: center;">
       <h3 align="center">Magical Merchant</h3>
-      <a href="https://magical-merchant.onrender.com/" target="_blank"><img src="gif1.gif" alt="Magical Merchant Screenshot"></a>
+      <a href="https://magical-merchant.onrender.com/" target="_blank"><img src="assets/mm.webp" alt="Magical Merchant Screenshot"></a>
       <p>A web-based point-of-sale system that your small business can run anywhere and even take card payments with only a phone or computer - no extra hardware!</p>
       <p>Tech used: Bootstrap, Sass, Node.js, & Express.js</p>
       <p align="center">
@@ -18,7 +18,7 @@
     </td>
     <td width="50%" style="text-align: center;">
       <h3 align="center">Guilty Gear Strive Frame Data API</h3>
-      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="gif2.gif" alt="Guilty Gear API Screenshot"></a>
+      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="assets/portfolio.webp" alt="Guilty Gear API Screenshot"></a>
       <p>A Restful API serving Guilty Gear Strive frame data, plus a script to scrape updated data and an app that pulls data from the API and analyzes it.</p>
       <p>Tech used: EJS, Sass, Node.js, & Express.js</p>
       <p align="center">
@@ -30,7 +30,7 @@
   <tr width="100%">
     <td width="50%" style="text-align: center;">
       <h3 align="center">AnitaNotto.com</h3>
-      <a href="https://anitanotto.com" target="_blank"><img src="assets/portfolio.gif" alt="Portfolio Site Screenshot"></a>
+      <a href="https://anitanotto.com" target="_blank"><img src="assets/portfolio.webp" alt="Portfolio Site Screenshot"></a>
       <p>My portfolio and blog website showcasing what I'm building and stuff I'm learning.</p>
       <p>Tech used: HTML5, CSS3, JavaScript, & Jekyll</p>
       <p align="center">
