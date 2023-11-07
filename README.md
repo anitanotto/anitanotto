@@ -17,13 +17,13 @@
       </p>
     </td>
     <td width="50%" style="text-align: center;">
-      <h3 align="center">Guilty Gear Strive Frame Data API</h3>
-      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="assets/gg.webp" alt="Guilty Gear API Screenshot"></a>
-      <p>A Restful API serving Guilty Gear Strive frame data, plus a script to scrape updated data and an app that pulls data from the API and analyzes it.</p>
+      <h3 align="center">When's My Turn? Frame Data API</h3>
+      <a href="https://whensmyturn.cyclic.app/" target="_blank"><img src="assets/wmt.webp" alt="When's My Turn? API Screenshot"></a>
+      <p>An API that scrapes and serves frame data from Arc System Works games such as Blazblue and Guilty Gear, plus an an app that pulls data from the API and analyzes it.</p>
       <p>Tech used: EJS, Sass, Node.js, & Express.js</p>
       <p align="center">
-      <a href="https://github.com/anitanotto/ggst-framedata"><img src="assets/repobutton.webp"></a>
-      <a href="https://ggst-framedata.onrender.com/" target="_blank"><img src="assets/sitebutton.webp"></a>
+      <a href="https://github.com/anitanotto/whens-my-turn"><img src="assets/repobutton.webp"></a>
+      <a href="https://whensmyturn.cyclic.app/" target="_blank"><img src="assets/sitebutton.webp"></a>
       </p>
     </td>
   </tr>
