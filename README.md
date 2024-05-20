@@ -65,7 +65,7 @@
   <img style="width: 408px;" id="githubStats" alt="Anita's GitHub Stats" src="https://github-readme-stats-anitanotto.vercel.app/api?username=anitanotto&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=2e3440&hide_border=true&show_icons=true&card_width=503.5&border_radius=0" />
 </a>
 <a href="#githubStreak">
-  <img style="width: 408px;" id="githubStreak" alt="Anita' GitHub Streak Stats" src="https://streak-stats.demolab.com/?user=anitanotto&stroke=ffffff&background=2e3440&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&card_width=503.5&hide_border=true&border_radius=0" />
+  <img style="width: 408px;" id="githubStreak" alt="Anita's GitHub Streak Stats" src="https://streak-stats.demolab.com?user=anitanotto" />
 </a>
 </p>
 
