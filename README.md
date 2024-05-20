@@ -1,29 +1,29 @@
 <a href="#header"><img id="header" src="assets/header.svg"></a>
 <br>
 <p>Hi, I'm Anita - I'm a full stack web dev from Charlottesville, VA.</p>
-<p>I love the internet, so, I'm always learning to use new tech that I can use in building my next website. My main project is <a href="https://magical-merchant.cyclic.app">Magical Merchant</a> - I come from a customer service background so I wanted to build something better than the horrible software I was forced to use for those jobs. I'm looking forward to learning a new framework to take it from the MVP stage to being more efficient in situations where users have a poor internet connection.</p>
+<p>I love the internet, so, I'm always learning to use new tech that I can use in building my next website. My main project is <a href="https://magical-merchant.onrender.com">Magical Merchant</a> - I come from a customer service background so I wanted to build something better than the horrible software I was forced to use for those jobs. I'm looking forward to learning a new framework to take it from the MVP stage to being more efficient in situations where users have a poor internet connection.</p>
 <p></p>
 <table style="width:1012px;">
   <th colspan="2">My Projects</th>
   <tr width="100%">
     <td width="50%" style="text-align: center;">
       <h3 align="center">Magical Merchant</h3>
-      <a href="https://magical-merchant.cyclic.app" target="_blank"><img src="assets/mm.webp" alt="Magical Merchant Screenshot"></a>
+      <a href="https://magical-merchant.onrender.com" target="_blank"><img src="assets/mm.webp" alt="Magical Merchant Screenshot"></a>
       <p>A web-based point-of-sale system that your small business can run anywhere and even take card payments with only a phone or computer - no extra hardware!</p>
       <p>Tech used: Bootstrap, Sass, Node.js, & Express.js</p>
       <p align="center">
       <a href="https://github.com/anitanotto/magical-merchant" target="_blank"><img src="assets/repobutton.webp"></a>
-      <a href="https://magical-merchant.cyclic.app" target="_blank"><img src="assets/sitebutton.webp"></a>
+      <a href="https://magical-merchant.onrender.com" target="_blank"><img src="assets/sitebutton.webp"></a>
       </p>
     </td>
     <td width="50%" style="text-align: center;">
       <h3 align="center">When's My Turn? Frame Data API</h3>
-      <a href="https://whensmyturn.cyclic.app/" target="_blank"><img src="assets/wmt.webp" alt="When's My Turn? API Screenshot"></a>
+      <a href="https://whens-my-turn.onrender.com" target="_blank"><img src="assets/wmt.webp" alt="When's My Turn? API Screenshot"></a>
       <p>An API that scrapes and serves frame data from Arc System Works games such as Blazblue and Guilty Gear, plus an an app that pulls data from the API and analyzes it.</p>
       <p>Tech used: EJS, Sass, Node.js, & Express.js</p>
       <p align="center">
       <a href="https://github.com/anitanotto/whens-my-turn"><img src="assets/repobutton.webp"></a>
-      <a href="https://whensmyturn.cyclic.app/" target="_blank"><img src="assets/sitebutton.webp"></a>
+      <a href="https://whens-my-turn.onrender.com" target="_blank"><img src="assets/sitebutton.webp"></a>
       </p>
     </td>
   </tr>
@@ -54,7 +54,7 @@
 <p align="center">Every day, I complete at least one problem on Codewars/LeetCode & push more code to GitHub to help keep my skills sharp.</p>
 <p align="center">
 <a href="https://www.codewars.com/users/hammock-sleeper">
-  <img style="width: 408px;" alt="Anita's Codewars Stats" src="https://clever-overshirt-ant.cyclic.app/api/?username=hammock-sleeper&card&customcolor=bg:2e3440_fg:0891b2_text:ffffff_logo:ffffff_stroke:ffffff" />
+  <img style="width: 408px;" alt="Anita's Codewars Stats" src="https://codewars-stat-card-wqnt.onrender.com/api/?username=hammock-sleeper&card&customcolor=bg:2e3440_fg:0891b2_text:ffffff_logo:ffffff_stroke:ffffff" />
 </a>
 <a href="https://leetcode.com/anitanotto/">
   <img style="width: 408px;" alt="Anita's LeetCode Stats" src="https://leetcard.jacoblin.cool/anitanotto?theme=nord&width=503&height=226&border=0&radius=0" />
