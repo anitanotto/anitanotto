@@ -51,7 +51,16 @@
 </table>
 
 <p align="center"><img align="center" src="https://media.tenor.com/OiyTQG6pD1IAAAAM/rage-anime.gif"></p>
-<p align="center">Every day, I complete at least one problem on Codewars/LeetCode & push more code to GitHub to help keep my skills sharp.</p>
+<p align="center">Every day, I complete at least one problem on LeetCode & push more code to GitHub to help keep my skills sharp.</p>
+<p align="center">
+<a href="https://leetcode.com/anitanotto/">
+  <img style="width: 408px;" alt="Anita's LeetCode Stats" src="https://leetcard.jacoblin.cool/anitanotto?theme=nord&width=503&height=198&border=0&radius=0" />
+</a>
+<a href="#githubStreak">
+  <img style="width: 408px;" id="githubStreak" alt="Anita's GitHub Streak Stats" src="https://github-readme-streak-stats-brown-chi.vercel.app?user=anitanotto&theme=nord&hide_border=true&border_radius=0" />
+</a>
+</p>
+<!--
 <p align="center">
 <a href="https://www.codewars.com/users/hammock-sleeper">
   <img style="width: 408px;" alt="Anita's Codewars Stats" src="https://codewars-stat-card-wqnt.onrender.com/api/?username=hammock-sleeper&card&customcolor=bg:2e3440_fg:0891b2_text:ffffff_logo:ffffff_stroke:ffffff" />
@@ -68,6 +77,7 @@
   <img style="width: 408px;" id="githubStreak" alt="Anita's GitHub Streak Stats" src="https://github-readme-streak-stats-brown-chi.vercel.app?user=anitanotto&theme=nord&hide_border=true&border_radius=0" />
 </a>
 </p>
+-->
 
 <h3 align="center">Connect With Me on <a href="https://www.linkedin.com/in/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a> & <a href="https://www.twitter.com/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a></h3>
 
