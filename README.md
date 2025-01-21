@@ -79,6 +79,6 @@
 </p>
 -->
 
-<h3 align="center">Connect With Me on <a href="https://www.linkedin.com/in/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a> & <a href="https://www.twitter.com/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a></h3>
+<h3 align="center">Connect with me on <a href="https://www.linkedin.com/in/anitanotto" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a></h3>
 
 <a href="#footer"><img id="footer" src="assets/footer.svg"></a>
