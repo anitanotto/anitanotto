@@ -56,9 +56,11 @@
 <a href="https://leetcode.com/anitanotto/">
   <img style="width: 408px;" alt="Anita's LeetCode Stats" src="https://leetcard.jacoblin.cool/anitanotto?theme=nord&width=503&height=198&border=0&radius=0" />
 </a>
+<!--
 <a href="#githubStreak">
   <img style="width: 408px;" id="githubStreak" alt="Anita's GitHub Streak Stats" src="https://github-readme-streak-stats-brown-chi.vercel.app?user=anitanotto&theme=nord&hide_border=true&border_radius=0" />
 </a>
+-->
 </p>
 <!--
 <p align="center">
